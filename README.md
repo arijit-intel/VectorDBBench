@@ -19,5 +19,10 @@
 
    ![image](https://github.com/user-attachments/assets/aed893b3-4dcb-4cc2-ab54-1c5d1b75fc87)
 
+4. Enter the details as below(db_label is the name of the collection, distance strategy can be L2, IP. Engine can be FaissFlat, FaissIVFFlat, Flinng etc.):
+
+   ![image](https://github.com/user-attachments/assets/52589806-d254-49e3-b02b-9d13d8c24c06)
+
+
 
 
