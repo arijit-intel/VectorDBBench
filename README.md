@@ -9,5 +9,5 @@
 # Launch VectorDBBench
 1. Run init_bench
 
-![image](https://github.com/user-attachments/assets/0643655b-0c29-4eb2-a690-563d6018a153)
+  ![image](https://github.com/user-attachments/assets/0643655b-0c29-4eb2-a690-563d6018a153)
 
