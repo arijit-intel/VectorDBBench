@@ -52,6 +52,34 @@
 
     ![image](https://github.com/user-attachments/assets/e2925b2f-57d9-4ffc-bd42-3f95af562be5)
 
+## How to change number of searches:
+  - Go to the backend/runner/serial_runner.py, and change as below (default is 1K, in the below example it is changed to 10):
+
+    ![image](https://github.com/user-attachments/assets/9a8b9095-ee62-4a31-b678-01ac0e76280d)
+
+## How to change the insert batch size:
+  - Go to the backend/clients/vdms/vdms_batch.py, and change as below (Here it’s set to 512):
+
+    ![image](https://github.com/user-attachments/assets/943ec764-3b27-426f-bb9f-84839dab6700)
+
+## How to change the search K size:
+  - Go to the backend/clients/vdms/vdms_batch.py, and change as below (Here it’s set to 10):
+
+    ![image](https://github.com/user-attachments/assets/dc535621-af36-461c-888d-c5277a1e42c8)
+
+## How to add constraint in search?
+  - First add metadata while inserts. Like below(here for example we added id and date as metadata):
+
+    ![image](https://github.com/user-attachments/assets/255b43d8-a485-4b63-a6a2-5e9e4b92ad6f)
+
+  -	Pass the constraint for while searching. Like below(here we are searching for ids which should be in between 6000 and 7000):
+
+    ![image](https://github.com/user-attachments/assets/6975a9fc-589d-4ffd-82c7-e7c6917633ea)
+
+
+
+
+
 
 
 
