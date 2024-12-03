@@ -23,6 +23,23 @@
 
    ![image](https://github.com/user-attachments/assets/52589806-d254-49e3-b02b-9d13d8c24c06)
 
+5. Select the test data for making the index and search:
+
+   ![image](https://github.com/user-attachments/assets/fe8c9cc9-eaee-4bb3-bce1-fd571cf6f952)
+
+6. Run it(check ‘index already exists’ if the index already created):
+
+   ![image](https://github.com/user-attachments/assets/3ac8c3e7-93c0-4209-a02b-2e7b9061d328)
+
+7. You can check the results for insert(I changed the code to insert 10K entries, subsequent instruction describes how to do so) and search time(I changed the code to search 10 entries for illustration purpose, default is 1K, subsequent instruction describes how to do so):
+
+   ![image](https://github.com/user-attachments/assets/b92987f5-820a-4c59-923a-573585ddcda8)
+
+# Few How-tos:
+
+
+
+
 
 
 
