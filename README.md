@@ -39,8 +39,17 @@
 
 ## How to change insert element size?
   - Go to the backend/runner/serial_runner.py, and change as below:
+
     For 10K insert,
     ![image](https://github.com/user-attachments/assets/b650f034-1586-4c6c-82e3-d872f3730a83)
+
+    For 100K insert,
+    ![image](https://github.com/user-attachments/assets/f0ca55b7-9211-4c51-8bc7-69e79031a39a)
+
+    For 1M insert,
+    ![image](https://github.com/user-attachments/assets/e2925b2f-57d9-4ffc-bd42-3f95af562be5)
+
+
 
 
 
