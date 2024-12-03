@@ -11,3 +11,13 @@
 
   ![image](https://github.com/user-attachments/assets/0643655b-0c29-4eb2-a690-563d6018a153)
 
+2. Copy and paste the network URL(adding ‘/run_test’) to the web browser, it will look like below:
+
+   ![image](https://github.com/user-attachments/assets/419596fd-8160-4d55-b804-0fa05f55068d)
+
+3. Then checkmark the VDMS, it will prompt to input some fields like below:
+
+   ![image](https://github.com/user-attachments/assets/aed893b3-4dcb-4cc2-ab54-1c5d1b75fc87)
+
+
+
